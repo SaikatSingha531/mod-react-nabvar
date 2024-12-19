@@ -1,0 +1,8 @@
+.logo{
+    color: blue;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
